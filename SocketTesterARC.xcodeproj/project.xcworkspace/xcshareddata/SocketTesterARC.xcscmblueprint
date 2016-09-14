@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "43AC92FD7017ECDE18489EEA6AD2FD795E158D7E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "43AC92FD7017ECDE18489EEA6AD2FD795E158D7E" : 9223372036854775807,
+    "ABB939127996C66F7E852A780552ADEEF03C6B13" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B842A24-995C-493A-BC8D-68BE8104EA92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "43AC92FD7017ECDE18489EEA6AD2FD795E158D7E" : "socket.IO-objc\/",
+    "ABB939127996C66F7E852A780552ADEEF03C6B13" : "socket.IO-objc\/submodules\/socket-rocket\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SocketTesterARC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SocketTesterARC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:paperlesspost\/socket.IO-objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43AC92FD7017ECDE18489EEA6AD2FD795E158D7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/square\/SocketRocket.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ABB939127996C66F7E852A780552ADEEF03C6B13"
+    }
+  ]
+}
